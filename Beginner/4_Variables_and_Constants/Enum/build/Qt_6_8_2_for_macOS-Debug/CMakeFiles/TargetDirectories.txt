@@ -1,0 +1,9 @@
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/Enum.dir
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/Enum_autogen_timestamp_deps.dir
+/Users/fthcknmz/Documents/QT6 CORE/Beginner/4_Variables_and_Constants/Enum/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/Enum_autogen.dir
