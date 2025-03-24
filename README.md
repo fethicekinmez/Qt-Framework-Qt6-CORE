@@ -1,0 +1,1 @@
+# Qt-Framework-Qt6-CORE
