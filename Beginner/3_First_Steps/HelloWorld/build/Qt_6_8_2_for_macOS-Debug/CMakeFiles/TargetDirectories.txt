@@ -1,0 +1,9 @@
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/HelloWorld.dir
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/HelloWorld_autogen_timestamp_deps.dir
+/Users/fthcknmz/Documents/QT6/Beginners/3_First_Steps/HelloWorld/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/HelloWorld_autogen.dir
