@@ -1,11 +1,11 @@
 # Qt6 Framework Core
 
 
-## Qt 6 Core Beginners with C++
+##Beginner
 
 1. [First Steps]()
 
-## Qt 6 Core Intermediate with C++
+## Intermediate
 1. [First Steps]()
-## Qt 6 Core Advanced with C++
+## Advanced
 1. [First Steps]()
