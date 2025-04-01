@@ -3,8 +3,8 @@
 
 ## Beginner
 
-1. [First Steps]()
-2. [Variables and Constants]()
+1. [First Steps](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Beginner/3_First_Steps/HelloWorld)
+2. [Variables and Constants](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Beginner/4_Variables_and_Constants)
 3. [Input and Output]()
 4. [Flow Control]()
 5. [Functions]()
