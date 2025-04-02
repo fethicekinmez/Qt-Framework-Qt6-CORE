@@ -18,6 +18,6 @@
 13. [Basic Qt Classes](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Beginner/15_Basic_Qt_Classes)
 
 ## Intermediate
-1. [First Steps]()
+1. [QObject](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/3_QObject)
 ## Advanced
 1. [First Steps]()
