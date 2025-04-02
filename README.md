@@ -19,5 +19,6 @@
 
 ## Intermediate
 1. [QObject](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/3_QObject)
+2. [Memory Management](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/4_Memory_Management)
 ## Advanced
 1. [First Steps]()
