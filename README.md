@@ -22,5 +22,7 @@
 2. [Memory Management](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/4_Memory_Management)
 3. [Collections](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/5_Collections)
 4. [Views](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/6_Views)
+5. [QSettings]()
+6. [File System](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/8_File_System)
 ## Advanced
 1. [First Steps]()
