@@ -24,5 +24,6 @@
 4. [Views](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/6_Views)
 5. [QSettings]()
 6. [File System](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/8_File_System)
+7. [Logging](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/9_QDebug)
 ## Advanced
 1. [First Steps]()
