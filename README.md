@@ -14,7 +14,7 @@
 9. [Signals and Slots](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Beginner/11_Signals_and_Slots)
 10. [Casting](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Beginner/12_Casting)
 11. [Exception Handling](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Beginner/13_Exception_Handling)
-12. [Templates]()
+12. [Templates](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Beginner/14_Templates)
 13. [Basic Qt Classes](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Beginner/15_Basic_Qt_Classes)
 
 ## Intermediate
