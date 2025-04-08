@@ -26,5 +26,6 @@
 6. [File System](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/8_File_System)
 7. [QDebug](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/9_QDebug)
 8. [Encoding](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/10_Encoding)
+9. [Compression](https://github.com/fethicekinmez/Qt-Framework-Qt6-CORE/tree/main/Intermediate/11_Compression)
 ## Advanced
 1. [First Steps]()
